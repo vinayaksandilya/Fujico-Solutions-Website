@@ -1,0 +1,82 @@
+<meta http-equiv="Content-Type" content="text/htm; charset=utf-8">
+<footer>
+    <div class="footer_bg">
+        <div class="container">
+            <div class="row">
+                <div class="followus animated drop_eff">
+                    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+                        <div class="ft_heading">
+                            <p class="ft_heading">&nbsp;</p>
+                            <h3 class="ft_heading hidden-xs hidden-sm">Quick Links</h3>
+                            <h3 class="ft_heading visible-xs visible-sm dd_next hand">Quick Links</h3>
+                            <div class="f_dd_box">
+                                <div class="footer_nav">
+                                    <ul>
+                                        <li><a href="../index.htm" title="Home">Home</a></li>
+                                        <li><a href="../about-us.htm" title="About Us">About Us</a></li>
+                                        <li><a href="../contact-us.htm" title="Contact Us">Contact Us</a></li>
+                                        <li><a href="../sitemap.htm" title="Sitemap">Sitemap</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                        <div class="ft_heading">
+                            <p class="ft_heading">&nbsp;</p>
+                            <h3 class="ft_heading hidden-xs hidden-sm">Service</h3>
+                            <h3 class="ft_heading visible-xs visible-sm dd_next hand">Service</h3>
+                            <div class="f_dd_box">
+                                <div class="footer_nav">
+                                    <ul>
+                                    	<li><a href="../electrical-solutions-consultancy.htm" title="Air conditioning installation">Air conditioning installation</a></li>
+                                        <li><a href="../air-conditioning-service.htm" title="Air conditioning Service">Air conditioning Service</a></li>
+                                        <li><a href="../electrical-solutions-consultancy.htm" title="Electrical solutions & Consultancy">Electrical solutions & Consultancy</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+                        <div class="ft_heading">
+                            <p class="ft_heading">&nbsp;</p>
+                            <h3 class="ft_heading hidden-xs hidden-sm">Follow Us</h3>
+                            <h3 class="ft_heading visible-xs visible-sm dd_next hand">Follow Us</h3>
+                            <div class="f_dd_box">
+                                <div class="followus1">
+                                    <ul class="followus-links">
+                                        <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-4">
+                        <div class="mt10">
+                            <p class="ft-logo"><a href="../index.htm"><img src="../images/logo.png" alt=""></a></p>
+                            <div class="footer_copyright opensans gray lh18px copy">Copyright © 2017 Fujico Solutions.<br>
+                            All rights reserved.
+                            <p class="clearfix"></p>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<div class="clearfix"></div>
+    <div class="copyright_bg">
+        <div class="container">
+            <div class="copyright_sec3">
+                <p><img src="../images/weblink.png" alt=""></p>
+                <p class=" opensans fs13 white lh18px mt5">Developed and Managed by <a href="https://www.weblinkindia.net/" rel="nofollow" title="WeblinkIndia.NET" target="_blank">WeblinkIndia.NET</a></p>
+            </div>
+            <div class="clearfix mb15"></div>
+        </div>
+    </div>
+</footer>

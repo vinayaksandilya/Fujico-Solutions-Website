@@ -1,0 +1,59 @@
+<meta http-equiv="Content-Type" content="text/htm; charset=utf-8">
+<header>
+    <div class="top-head">
+        <div class="top-head1">
+            <div class="container">
+            	<div class="row">
+                    <div class="col-xs-12 col-sm-8 col-md-6 col-lg-6">
+                        <div class="nav-header">
+                            <p class="call_icon"><img src="../images/call_icon.png" alt="" class="mr8"><a href="tel:+971551465555">+971551465555</a></p>
+                            <p class="message_icon"><img src="../images/message_icon.png" alt="" class="mr8"><a href="mailto:info@electrahomes.com" title="info@electrahomes.com">info@electrahomes.com</a></p>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 col-md-6 col-lg-6">
+                        <div class="social">
+                            <ul class="social-links">
+                                <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                                <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="javascript:void(0)" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+            	</div>
+            </div>
+        </div>
+        <p class="clearfix"></p>
+        <div class="container">
+            <div class="row">
+            	<div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
+                	<div class="logo"><a href="../index.htm"><img src="../images/logo.png" class="img-responsive"/></a></div>
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10">
+                    <nav>
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"><span class="visible-xs">Navigation</span></button>
+                        </div>
+						<div id="navbar" class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav">
+                                <li><a href="../index.htm" title="Home" id="hom">Home</a></li>
+                                <li><a href="../about-us.htm" title="About Us" id="abo">About Us</a></li>
+                                <li class="dropdown"><a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" title="Services" id="ser">Services<span class="caret"></span></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="../air-conditioning-installation.htm" title="Air conditioning installation">Air conditioning installation</a></li>
+                                        <li><a href="../air-conditioning-service.htm" title="Air conditioning Service">Air conditioning Service</a></li>
+                                        <li><a href="../electrical-solutions-consultancy.htm" title="Electrical solutions & Consultancy">Electrical solutions &amp; Consultancy</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="../contact-us.htm" title="Contact Us" id="con">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                	<p class="clearfix"></p>
+                </div>
+            </div>
+        	<p class="clearfix"></p>
+        </div>
+    </div>
+</header>
